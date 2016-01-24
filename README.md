@@ -1,14 +1,5 @@
-# Capstone - Word Oracle application on the Shiny platform.
-
-
----
-title: "ReadMe.Rmd"
-author: "Matt Guschwan"
-date: "January 23, 2016"
-output: html_document
----
-
-Capstone Project for Coursera Data Science Specialization.
+# Capstone Project for Coursera Data Science Specialization.
+Word Oracle application on the Shiny platform.
 
 Natural Language Processing.
 
